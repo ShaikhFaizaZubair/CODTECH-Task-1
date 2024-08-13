@@ -11,6 +11,8 @@ DURATION:15JULY TO 15AUGUST
 OVERVIEW OF THE PROJECT
 
 PROJECT:A simple calculator that performs the selected operation and display the result to the user.
+![OUTPUT OF TASK 1](https://github.com/user-attachments/assets/f35a55a3-2923-40e8-989a-32cbe547484d)
+
 
 
 
