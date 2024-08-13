@@ -12,8 +12,6 @@ OVERVIEW OF THE PROJECT
 
 PROJECT:A simple calculator that performs the selected operation and display the result to the user.
 
-OBJECTIVE:
-
 1. Prompts the user to choose an operation (addition, subtraction, multiplication, division)
 2. Asks for two numbers
 3. Performs the selected operation
